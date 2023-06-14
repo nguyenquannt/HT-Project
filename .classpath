@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Hinh"/>
+	<classpathentry kind="src" path="Icon"/>
+	<classpathentry kind="src" path="helper"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/mssql-jdbc-12.2.0.jre11.jar"/>
+	<classpathentry kind="lib" path="libs/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="libs/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="libs/timingframework-1.0.jar"/>
+	<classpathentry kind="lib" path="libs/gradient-icon-font.jar"/>
+	<classpathentry kind="lib" path="libs/pie-chart.jar"/>
+	<classpathentry kind="lib" path="libs/miglayout-4.0.jar"/>
+	<classpathentry kind="lib" path="libs/flatlaf-2.4.jar"/>
+	<classpathentry kind="lib" path="libs/datechooser.jar"/>
+	<classpathentry kind="lib" path="libs/KGradientPanel.jar"/>
+	<classpathentry kind="lib" path="libs/RadioLib.jar"/>
+	<classpathentry kind="lib" path="libs/PanelLib.jar"/>
+	<classpathentry kind="lib" path="libs/ChartLib.jar"/>
+	<classpathentry kind="lib" path="libs/DrawerLib.jar"/>
+	<classpathentry kind="lib" path="libs/ScrollbarLib.jar"/>
+	<classpathentry kind="lib" path="libs/MenuLib.jar"/>
+	<classpathentry kind="lib" path="libs/ComboBoxLib.jar"/>
+	<classpathentry kind="lib" path="libs/ButtonLib.jar"/>
+	<classpathentry kind="lib" path="libs/swing-jnafilechooser.jar"/>
+	<classpathentry kind="lib" path="libs/jna-5.5.0.jar"/>
+	<classpathentry kind="lib" path="libs/jxl.jar"/>
+	<classpathentry kind="lib" path="libs/ControlPanelLib.jar"/>
+	<classpathentry kind="lib" path="libs/DialogLib.jar"/>
+	<classpathentry kind="lib" path="libs/NotificationLib.jar"/>
+	<classpathentry kind="lib" path="libs/InputLib.jar"/>
+	<classpathentry kind="lib" path="libs/itextpdf-5.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/sqljdbc42.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
